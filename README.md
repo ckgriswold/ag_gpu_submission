@@ -1,4 +1,4 @@
-# ag_gpu_sumission
+# ag_gpu_submission
 
 This repository consists of zipped folders containing
 
